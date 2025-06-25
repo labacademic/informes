@@ -32,8 +32,8 @@ cursos = {
             "corporativo": {"soles": 160, "dolares": 50},
             "fecha_preventa": preventa_forecasting
         },
-        "inscripcion": "https://wa.link/59gnte",
-        "informes": "https://wa.link/59gnte"
+        "inscripcion": "https://wa.me/51926488484?text=%F0%9F%8E%89%20%21Hola%21%20Estoy%20interesado%20en%20inscribirme%20en%20el%20curso%20Forecasting%20con%20Python%20%28julio%29.%20%3FMe%20puedes%20dar%20más%20información%3F%20%F0%9F%93%9D",
+        "informes": "https://wa.me/51926488484?text=%F0%9F%93%9A%20%21Hola%21%20Quisiera%20consultar%20información%20sobre%20los%20informes%20y%20descuentos%20para%20el%20curso%20Forecasting%20con%20Python%20%28julio%29.%20Gracias.%20%F0%9F%99%8C"
     },
     "Econometría aplicada con R (julio)": {
         "duracion": "42 horas académicas",
@@ -46,8 +46,8 @@ cursos = {
             "corporativo": {"soles": 160, "dolares": 50},
             "fecha_preventa": preventa_econometria
         },
-        "inscripcion": "https://wa.link/59gnte",
-        "informes": "https://wa.link/59gnte"
+        "inscripcion": "https://wa.me/51960553600?text=%F0%9F%8E%89%20%21Hola%21%20Estoy%20interesado%20en%20inscribirme%20en%20el%20curso%20Econometría%20aplicada%20con%20R%20%28julio%29.%20%3FMe%20puedes%20dar%20más%20información%3F%20%F0%9F%93%9D",
+        "informes": "https://wa.me/51960553600?text=%F0%9F%93%9A%20%21Hola%21%20Quisiera%20consultar%20información%20sobre%20los%20informes%20y%20descuentos%20para%20Econometría%20aplicada%20con%20R%20%28julio%29.%20Gracias.%20%F0%9F%99%8C"
     },
     "Análisis y modelamiento de series de tiempo con Python": {
         "duracion": "21 horas académicas",
@@ -60,8 +60,8 @@ cursos = {
             "corporativo": {"soles": 100, "dolares": 30},
             "fecha_preventa": preventa_series_python
         },
-        "inscripcion": "https://wa.link/59gnte",
-        "informes": "https://wa.link/59gnte"
+        "inscripcion": "https://wa.me/51926488484?text=%F0%9F%8E%89%20%21Hola%21%20Estoy%20interesado%20en%20inscribirme%20en%20el%20curso%20Análisis%20y%20modelamiento%20de%20series%20de%20tiempo%20con%20Python.%20%3FMe%20puedes%20dar%20más%20información%3F%20%F0%9F%93%9D",
+        "informes": "https://wa.me/51926488484?text=%F0%9F%93%9A%20%21Hola%21%20Quisiera%20consultar%20información%20sobre%20los%20informes%20y%20descuentos%20para%20Análisis%20y%20modelamiento%20de%20series%20de%20tiempo%20con%20Python.%20Gracias.%20%F0%9F%99%8C"
     },
     "Modelos de machine learning para forecasting con Python": {
         "duracion": "21 horas académicas",
@@ -74,8 +74,8 @@ cursos = {
             "corporativo": {"soles": 100, "dolares": 30},
             "fecha_preventa": preventa_ml_forecasting
         },
-        "inscripcion": "https://wa.link/59gnte",
-        "informes": "https://wa.link/59gnte"
+        "inscripcion": "https://wa.me/51926488484?text=%F0%9F%8E%89%20%21Hola%21%20Estoy%20interesado%20en%20inscribirme%20en%20el%20curso%20Modelos%20de%20Machine%20Learning%20para%20Forecasting%20con%20Python.%20%3FMe%20puedes%20dar%20más%20información%3F%20%F0%9F%93%9D",
+        "informes": "https://wa.me/51926488484?text=%F0%9F%93%9A%20%21Hola%21%20Quisiera%20consultar%20información%20sobre%20los%20informes%20y%20descuentos%20para%20Modelos%20de%20Machine%20Learning%20para%20Forecasting%20con%20Python.%20Gracias.%20%F0%9F%99%8C"
     },
     "Fundamentos de econometría con R": {
         "duracion": "21 horas académicas",
@@ -88,8 +88,8 @@ cursos = {
             "corporativo": {"soles": 100, "dolares": 30},
             "fecha_preventa": preventa_fundamentos_econometria
         },
-        "inscripcion": "https://wa.link/59gnte",
-        "informes": "https://wa.link/59gnte"
+        "inscripcion": "https://wa.me/51960553600?text=%F0%9F%8E%89%20%21Hola%21%20Estoy%20interesado%20en%20inscribirme%20en%20el%20curso%20Fundamentos%20de%20Econometría%20con%20R.%20%3FMe%20puedes%20dar%20más%20información%3F%20%F0%9F%93%9D",
+        "informes": "https://wa.me/51960553600?text=%F0%9F%93%9A%20%21Hola%21%20Quisiera%20consultar%20información%20sobre%20los%20informes%20y%20descuentos%20para%20Fundamentos%20de%20Econometría%20con%20R.%20Gracias.%20%F0%9F%99%8C"
     },
     "Modelos estadísticos con R": {
         "duracion": "21 horas académicas",
@@ -102,10 +102,27 @@ cursos = {
             "corporativo": {"soles": 100, "dolares": 30},
             "fecha_preventa": preventa_modelos_estadisticos_r
         },
-        "inscripcion": "https://wa.link/59gnte",
-        "informes": "https://wa.link/59gnte"
-    },
+        "inscripcion": "https://wa.me/51960553600?text=%F0%9F%8E%89%20%21Hola%21%20Estoy%20interesado%20en%20inscribirme%20en%20el%20curso%20Modelos%20Estadísticos%20con%20R.%20%3FMe%20puedes%20dar%20más%20información%3F%20%F0%9F%93%9D",
+        "informes": "https://wa.me/51960553600?text=%F0%9F%93%9A%20%21Hola%21%20Quisiera%20consultar%20información%20sobre%20los%20informes%20y%20descuentos%20para%20Modelos%20Estadísticos%20con%20R.%20Gracias.%20%F0%9F%99%8C"
+    }
 }
+
+# Enlace único para organizaciones estudiantiles
+enlace_organizaciones_estudiantiles = "https://wa.me/51951851874?text=%F0%9F%8E%93%20%21Hola%21%20Estoy%20interesado%20en%20descuentos%20para%20organizaciones%20estudiantiles.%20%3FMe%20puedes%20dar%20más%20información%3F%20%F0%9F%A4%9D"
+
+# Función para mostrar los enlaces
+def mostrar_links(curso_sel):
+    curso_data = cursos[curso_sel]
+    
+    # Enlace personalizado para inscripción e informes según el curso
+    enlace_inscripcion = curso_data['inscripcion']
+    enlace_informes = curso_data['informes']
+    
+    st.markdown(f"""
+    - ¿Quieres inscribirte? [Haz clic aquí]({enlace_inscripcion})  
+    - ¿Quieres consultar nuestra política de descuento para ex alumnos, matrículas nacionales, internacionales, matriculas en bloques o beneficios para estudiantes? [Haz clic aquí]({enlace_informes})  
+    - ¿Quieres conseguir descuentos para tu organización estudiantiles? [Haz clic aquí]({enlace_organizaciones_estudiantiles})
+    """)
 
 # Paso 2: Mostrar según selección
 def mostrar_tabla_precio(precios):
@@ -134,14 +151,6 @@ def mostrar_tabla_precio(precios):
     # Mensaje de pagos internacionales
     st.markdown("**Pagos internacionales a través de PayPal.**")
 
-# Mostrar los enlaces de inscripción e informes
-def mostrar_links():
-    st.markdown("""
-    - ¿Quieres inscribirte? [Haz clic aquí](https://wa.link/59gnte)  
-    - ¿Quieres consultar nuestra política de descuento para ex alumnos, matrículas nacionales, internacionales, matriculas en bloques o beneficios para estudiantes? [Haz clic aquí](https://wa.link/59gnte)  
-    - ¿Quieres conseguir descuentos para tu organización estudiantil? [Haz clic aquí](https://wa.link/59gnte)
-    """)
-
 if opcion == "📆 Cursos mensuales":
     curso_sel = st.selectbox("Selecciona un curso mensual para más información:", [
         "Análisis y modelamiento de series de tiempo con Python",
@@ -160,8 +169,8 @@ if opcion == "📆 Cursos mensuales":
     precio = datos['precio']
     mostrar_tabla_precio(precio)
 
-    # Mostrar enlaces
-    mostrar_links()
+    # Mostrar enlaces personalizados
+    mostrar_links(curso_sel)
 
 elif opcion == "📚 Programas de 2 meses":
     prog_sel = st.selectbox("Selecciona un programa:", [
@@ -179,5 +188,5 @@ elif opcion == "📚 Programas de 2 meses":
     precio = datos['precio']
     mostrar_tabla_precio(precio)
 
-    # Mostrar enlaces
-    mostrar_links()
+    # Mostrar enlaces personalizados
+    mostrar_links(prog_sel)
